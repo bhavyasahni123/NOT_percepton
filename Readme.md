@@ -8,7 +8,7 @@ C++ implementation of a single-neuron perceptron trained from scratch to learn t
 - **Activation:** Step function
 - **Initial weight:** \(w=0\)
 - **Initial bias:** \(b=0\)
-- **Learning rate:** \(\eta=0.1\)
+- **Learning rate:** \(n=0.1\)
 - **Learning rule:** Perceptron learning rule
 - **Stopping criterion:** Zero classification errors
 
